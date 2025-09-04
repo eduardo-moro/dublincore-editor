@@ -8,11 +8,10 @@ Uma ferramenta em Go para editar metadados Dublin Core em arquivos DOCX com uma 
 
 ## ✨ Características
 
-- **Interface Intuitiva**: TUI moderna e fácil de usar
 - **Metadados ATS**: Foco em metadados para Applicant Tracking Systems
 - **Backup Automático**: Cria backup automático antes de editar
-- **Suporte a DOCX**: Compatível com arquivos Microsoft Word
-- **Campos Essenciais**: Edição dos 5 campos mais importantes para currículos
+- **Suporte a DOCX**: Compatível com arquivos Microsoft Word Originais
+- **Campos Essenciais**: Edição dos 5 campos [mais importantes para currículos](https://www.youtube.com/watch?v=fQ7GMBIDric)
 
 ## 🚀 Instalação
 
