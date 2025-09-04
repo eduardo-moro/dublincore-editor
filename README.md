@@ -1,3 +1,5 @@
+<img width="1015" height="556" alt="image" src="https://github.com/user-attachments/assets/c9ea5d39-abe0-487b-9458-257588ef1427" />
+
 ![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-square&logo=go)
 ![CLI](https://img.shields.io/badge/Interface-CLI-brightgreen)
 ![License](https://img.shields.io/badge/Licença-MIT-blue)
@@ -186,9 +188,6 @@ Se você encontrar problemas:
 
 ---
 
-## 📸 Print do projeto
-
-<img width="1015" height="556" alt="image" src="https://github.com/user-attachments/assets/c9ea5d39-abe0-487b-9458-257588ef1427" />
 
 
 ⭐️ Se este projeto foi útil, deixe uma estrela no GitHub!
