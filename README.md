@@ -1,4 +1,4 @@
-# Editor de Metadados Dublin Core para DOCX
+<img width="1015" height="556" alt="image" src="https://github.com/user-attachments/assets/2a7533e4-1273-49f2-b593-7694c9ab6cd6" /># Editor de Metadados Dublin Core para DOCX
 
 ![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-square&logo=go)
 ![CLI](https://img.shields.io/badge/Interface-CLI-brightgreen)
@@ -187,6 +187,11 @@ Se você encontrar problemas:
    - Saída do debug
 
 ---
+
+## 📸 Print do projeto
+
+<img width="1015" height="556" alt="image" src="https://github.com/user-attachments/assets/c9ea5d39-abe0-487b-9458-257588ef1427" />
+
 
 ⭐️ Se este projeto foi útil, deixe uma estrela no GitHub!
 
