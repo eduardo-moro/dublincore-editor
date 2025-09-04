@@ -1,8 +1,15 @@
 <img width="1015" height="556" alt="image" src="https://github.com/user-attachments/assets/c9ea5d39-abe0-487b-9458-257588ef1427" />
 
+<br>
+<br>
+
+<div align="center">
+    
 ![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-square&logo=go)
 ![CLI](https://img.shields.io/badge/Interface-CLI-brightgreen)
 ![License](https://img.shields.io/badge/Licença-MIT-blue)
+
+</div>
 
 Uma ferramenta em Go para editar metadados Dublin Core em arquivos DOCX com uma interface TUI (Text User Interface) amigável usando BubbleTea.
 
