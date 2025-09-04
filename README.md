@@ -1,5 +1,3 @@
-<img width="1015" height="556" alt="image" src="https://github.com/user-attachments/assets/2a7533e4-1273-49f2-b593-7694c9ab6cd6" /># Editor de Metadados Dublin Core para DOCX
-
 ![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-square&logo=go)
 ![CLI](https://img.shields.io/badge/Interface-CLI-brightgreen)
 ![License](https://img.shields.io/badge/Licença-MIT-blue)
